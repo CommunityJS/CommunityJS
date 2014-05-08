@@ -1,5 +1,5 @@
 ## CommunityJS.org
-This is the software behind CommunityJS.org
+This is the OLD backend behind CommunityJS.org. Now all logic runs in the client https://github.com/CommunityJS/communityjs.github.io
 
 
 ## Quick start
